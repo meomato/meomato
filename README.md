@@ -12,17 +12,19 @@
 
 **about me**
 
-I am a Data Science and Business Analytics student at the HSE & University of London Double Degree Bachelor program, Faculty of Computer Science.
+I am a fourth-year Data Science and Business Analytics student at the HSE University and University of London Double Degree Bachelor’s programme.
 
-My academic path combines mathematics, programming, statistics, economics, and modern data analysis methods. I am focused on machine learning, deep learning, applied artificial intelligence, and data-driven solutions that create practical business value.
+My academic background combines mathematics, statistics, programming, economics, and modern machine learning. My main interests include deep learning, NLP, speech and audio processing, multimodal language models, recommender systems, and research-oriented machine learning.
 
-Currently interested in internships and project work in Data Science, Machine Learning Engineering, Product Analytics, Risk / Fraud Analytics, Recommendation Systems, AI Products, and research-oriented ML roles.
+I have research and project experience with audio classification, speech and multimodal LLM evaluation, recommender systems, statistical modeling, signal processing, and business analytics. I enjoy reading recent research papers, understanding new architectures, reproducing experimental results, and exploring possible improvements.
+
+Currently interested in internships and project work in Data Science, Machine Learning, NLP, Speech AI, Applied AI, Data Analytics, Risk Analytics, and research-oriented ML.
 
 **focus areas**
 
 <div align="center">
 
-`Machine Learning` / `Deep Learning` / `Data Science` / `NLP` / `Recommender Systems` / `AutoML` / `Product Analytics` / `Risk Analytics` / `Anti-Fraud Systems` / `Predictive Modeling` / `AI Applications`
+`Machine Learning` / `Deep Learning` / `Data Science` / `NLP` / `Speech & Audio ML` / `Multimodal LLMs` / `Recommender Systems` / `Statistical Modeling` / `Data Analytics` / `Research`
 
 </div>
 
@@ -32,36 +34,47 @@ Currently interested in internships and project work in Data Science, Machine Le
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<br>
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-<br>
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<br>
 ![LightGBM](https://img.shields.io/badge/LightGBM-00A65A?style=flat-square)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 <br>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
 
 **experience**
 
-Full ML project cycle from data exploration to final model evaluation.
+Research and applied machine learning experience with tabular, audio, speech, text, time-series, and business data.
 
-Data cleaning, preprocessing, feature engineering, model comparison, cross-validation, hyperparameter tuning, and model interpretation.
+Work with data collection, manual annotation, validation, cleaning, preprocessing, exploratory analysis, feature engineering, and dataset quality control.
 
-Work with tabular data, transactional data, time series, reproducible notebooks, and technical documentation.
+Experience with classical machine learning, gradient boosting, neural networks, transfer learning, pretrained audio and language models, model benchmarking, cross-validation, hyperparameter tuning, and error analysis.
+
+Comparison of models under consistent experimental conditions using task-specific metrics. Preparation of reproducible notebooks, experiment pipelines, technical documentation, reports, and presentations.
+
+Experience working both independently and in research teams using Git, GitHub, Linux, Hydra, Jupyter, and computational infrastructure.
 
 **academic foundation**
 
 <div align="center">
 
-`Probability Theory` / `Mathematical Statistics` / `Linear Algebra` / `Calculus` / `Optimization` / `Econometrics` / `Algorithms and Data Structures` / `Databases` / `Machine Learning` / `Deep Learning Foundations`
+`Probability Theory` / `Mathematical Statistics` / `Linear Algebra` / `Calculus` / `Optimization` / `Econometrics` / `Algorithms and Data Structures` / `Databases` / `Time Series Analysis` / `Machine Learning` / `Deep Learning` / `Natural Language Processing`
 
 </div>
 
@@ -79,7 +92,9 @@ Work with tabular data, transactional data, time series, reproducible notebooks,
 
 **strengths**
 
-Analytical thinking, fast learning, attention to detail, structured problem solving, technical and business mindset, and strong motivation to grow in AI and ML.
+I enjoy working with unfamiliar topics, reading research papers, understanding new model architectures, and turning theoretical ideas into reproducible experiments.
+
+My strengths include analytical thinking, attention to data quality, structured problem solving, fast learning, clear communication of results, and the ability to combine technical analysis with an understanding of business context.
 
 <div align="center">
 
